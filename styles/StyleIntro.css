@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://images.pexels.com/photos/1874905/pexels-photo-1874905.jpeg?cs=srgb&dl=anochecer-arboles-arquitectura-autopista-1874905.jpg&fm=jpg");
+    /* background-image: url("https://images.pexels.com/photos/929668/pexels-photo-929668.jpeg?cs=srgb&dl=autopista-calzada-camara-rapida-carretera-929668.jpg&fm=jpg"); */
+    background-size: cover;
+    height: 860px;
+    }
+
+article
+{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+article > div > section
+{
+    color: white;
+    font-size: 40px;
+    font-family: 'Homemade Apple', cursive;
+}
+
+article > div > footer
+{
+    color: white;
+    font-size: 20px;
+    font-family: 'Homemade Apple', cursive;
+}
